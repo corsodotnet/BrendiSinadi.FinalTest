@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LawyerTravelAPI", "LawyerTravelAPI\LawyerTravelAPI.csproj", "{8AF42C52-1407-4B10-A6DB-B5F6EE0247D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LawyerHTTP", "LawyerHTTP\LawyerHTTP.csproj", "{73636DB3-63B2-4AA8-96BA-3ED30A44055A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AF42C52-1407-4B10-A6DB-B5F6EE0247D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AF42C52-1407-4B10-A6DB-B5F6EE0247D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AF42C52-1407-4B10-A6DB-B5F6EE0247D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AF42C52-1407-4B10-A6DB-B5F6EE0247D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73636DB3-63B2-4AA8-96BA-3ED30A44055A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73636DB3-63B2-4AA8-96BA-3ED30A44055A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73636DB3-63B2-4AA8-96BA-3ED30A44055A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73636DB3-63B2-4AA8-96BA-3ED30A44055A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {884740CE-E537-45E1-B676-BD4BABA53938}
+	EndGlobalSection
+EndGlobal
